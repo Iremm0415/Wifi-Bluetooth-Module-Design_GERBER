@@ -49,6 +49,8 @@ ESP32'nin temel çalışma frekansını destekler.
 
 RTC zamanlayıcısı ile birlikte hassas saat ölçümleri için kullanılır.
 
+<img src="https://github.com/user-attachments/assets/b7d2787f-ca6c-443c-ba76-0967c1a0f596" width="480">
+
 *Şekil 13 Wifi/Bluetooth Modülü Devresi Şematik*
 
 ## Çalışma Prensibi
@@ -63,14 +65,19 @@ Açısal kontrol gerekiyorsa step motor sürülür. Sistem bir hata algıladığ
 Tüm bu işlemler Wi-Fi veya Bluetooth üzerinden dış sistemlere veri iletebilecek veya uzaktan kontrol edilebilecek şekilde tasarlanmıştır. Bu sayede cihaz, IoT altyapısı içerisinde
 haberleşebilir ve uzaktan erişimli uygulamalarla entegre olabilir.
 
+<img src="https://github.com/user-attachments/assets/10d84c84-5598-4903-aaa4-4ab06f8bec9f" width="480">
+
 *Şekil 14 Wifi/Bluetooth Modülü Devresi 2D Gösterim*
 
 ## Sonuç ve Değerlendirme
 
 Geliştirilen bu IoT cihazı, farklı çevresel parametreleri ölçebilen, donanımsal olarak kontrol edilebilen ve kablosuz iletişim sayesinde uzaktan yönetilebilen bütünleşik bir sistem sunmaktadır. Endüstriyel otomasyon, ev otomasyonu, çevre izleme ve akıllı sistem uygulamaları gibi birçok alanda kullanılabilecek esnek ve ölçeklenebilir bir çözüm sunmaktadır.
 
+<img src="https://github.com/user-attachments/assets/56cbaa1c-6504-4f4e-b775-e4c8b44c5154" width="480">
 
 *Şekil 15 Wifi/Bluetooth Modülü Devresi 3D Gösterim*
+
+<img src="https://github.com/user-attachments/assets/87e41824-e77e-48a9-80c5-73af776c5a43" width="480">
 
 *Şekil 16 Wifi/Bluetooth Modülü Devresi 3D Gösterim*
 
@@ -86,5 +93,10 @@ ESP32 tarafında, UART üzerinden alınan veriler işlenmiş ve Wi-Fi/Bluetooth 
 
 Tüm iletişim yapısı senkronize ve güvenli veri aktarımına uygun şekilde yapılandırılmış; sistem, modüler ve ölçeklenebilir bir yazılım mimarisiyle geliştirilmiştir.
 
+<img src="https://github.com/user-attachments/assets/2cce9dc0-c510-44fb-b14f-4ea1cc64afac" width="480">
+
 *Şekil 17 Wifi/Bluetooth Modülü Devresi Pin-Clock Ayarlama*
+
+<img src="https://github.com/user-attachments/assets/2f44e5f3-7f3a-4a8c-89d1-5304a2f4b617" width="480">
+
 *Şekil 18 Wifi/Bluetooth Modülü Devresi Yazılımı*
